@@ -1,0 +1,17 @@
+{
+	class:art.soft.objsData.ItemData,
+	animation:"weapons/uzi",
+	setName:"uzi",
+	iconName:"weapons/uzi",
+	iconAnim:1,
+	ammo:100,
+	hp:-1,mass:4,
+	cenX:40,cenY:40,
+	width:80,height:80,
+	min_damage:64,
+	max_speedX:32,
+	max_speedY:32,
+	collision:16,
+	coll_mask:1,
+	friction:0.5
+}

@@ -1,0 +1,6 @@
+{
+	class:art.soft.objsData.Decor,
+	animation:"trees/tree",anim:1,
+	cenX:54,cenY:174,
+	width:108,height:174
+}

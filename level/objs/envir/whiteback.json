@@ -1,0 +1,5 @@
+{
+	class:art.soft.objsData.PolyModel,
+	cenY:66,width:1600,height:1066,
+	modelPath:"models/whiteback"
+}

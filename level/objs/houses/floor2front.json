@@ -1,0 +1,5 @@
+{
+	class:art.soft.objsData.PolyModel,
+	modelPath:"models/floor2front",
+	width:800,height:400,cenY:400
+}

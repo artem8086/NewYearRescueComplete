@@ -1,0 +1,6 @@
+{
+	class:art.soft.objsData.PolyModel,
+	cenX:100,cenY:48,
+	width:478,height:347,
+	modelPath:"models/oldTV"
+}

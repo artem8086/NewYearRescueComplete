@@ -1,0 +1,6 @@
+{
+	class:art.soft.objsData.PolyModel,
+	modelPath:"models/house0back",
+	cenX:160,cenY:886,
+	width:1260,height:955
+}

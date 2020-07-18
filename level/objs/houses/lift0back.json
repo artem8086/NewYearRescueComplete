@@ -1,0 +1,6 @@
+{
+	class:art.soft.objsData.PolyModel,
+	modelPath:"models/lift0back",
+	cenX:90,cenY:345,
+	width:400,height:390
+}

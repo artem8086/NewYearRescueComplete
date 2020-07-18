@@ -1,0 +1,5 @@
+{
+	class:art.soft.objsData.PolyModel,
+	cenX:160,cenY:76,width:1120,height:322,
+	modelPath:"models/whitefore"
+}
